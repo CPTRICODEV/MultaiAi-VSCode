@@ -18,4 +18,4 @@ This extension allows you to use the OpenAI API to generate code snippets and ea
 
 ## Support
 
-If you have any issues or questions about this extension, please feel free to open an issue on the [GitHub repository](multiai.netlify.app)
+If you have any issues or questions about this extension, please feel free to open an issue on the [GitHub repository](https://github.com/CPTRICODEV/MultaiAi-VSCode)
